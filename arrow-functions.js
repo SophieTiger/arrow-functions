@@ -4,12 +4,12 @@
  */
 
 // Vanilla JavaScript Function
-/**function addTwoNumbers(a, b) {
+function addTwoNumbers1(a, b) {
     return a + b;
 }
-let sum = addTwoNumbers(3, 5);
-console.log(sum);
-*/
+let sum1 = addTwoNumbers1(3, 5);
+console.log(sum1);
+
 
 // Arrow Function With Parameters
 const addTwoNumbers = (a, b) => {
